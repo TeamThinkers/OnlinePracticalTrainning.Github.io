@@ -1,2 +1,2 @@
 # OnlinePracticalTrainning.github.io
-To enable universities stidents to easily acquire places for practice.
+To enable universities students to easily acquire places for practice.
